@@ -1,0 +1,18 @@
+body{
+   font-family: 'Outfit', sans-serif;
+   background-color: hsl(212, 45%, 89%);
+   text-align: center;
+}
+.main{
+   background-color: white;
+   position: relative;
+   margin: 10% 30% 10% 30%;
+   border: none;
+   border-radius: 20px;
+   padding: 1.5rem;
+   size: 75%;
+
+}
+.qr{
+   size: 25%;
+}
